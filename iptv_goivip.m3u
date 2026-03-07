@@ -48,16 +48,16 @@ https://streaming.tuyenquangtv.vn/channel/tuyenquang/playlist.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=89
 #EXTINF:-1 group-title="Undefined",NTV HD
 https://freem3u.xyz/api/live/play.m3u8?vid=74
-#EXTINF:-1 group-title="Undefined",ON Phim Viet HD
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-2-phim-viet-hd/KenhCoBan.m3u8
+#EXTINF:-1 group-title="Undefined",KTV1 HD
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/ninh-thuan/KenhCoBan.m3u8
 #EXTINF:-1 group-title="Undefined",Ha Noi 1 HD
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/ha-noi-1/KenhCoBan.m3u8
 #EXTINF:-1 group-title="Undefined",Ha Noi 2 4K
 https://toiyeuvietnam.dpdns.org/OnliveTV/hanoi2/Free.m3u8
-#EXTINF:-1 group-title="Undefined",Phim Viet HD
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-viet/KenhCoBan.m3u8
-#EXTINF:-1 group-title="Undefined",Phim Au My HD
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-au-my/KenhCoBan.m3u8
+#EXTINF:-1 group-title="Undefined",FPT Play 1 4K
+https://live.fptplay53.net/live/media/su-kien-01-4k/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Undefined",FPT Play 2 HD
+https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="Undefined",Vinh Long 1 HD
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vinh-long-1/KenhCoBan.m3u8
 #EXTINF:-1 group-title="Undefined",Vinh Long 2 HD
@@ -193,7 +193,31 @@ https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Undefined",CNN HD
 http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=1163749&extension=ts&play_token=ykRIE6GwRI
-#EXTINF:-1 group-title="Undefined",Discovery Asia HD
-https://ace.hoiquan.click/module/IPTV/?id=discoveryasia&accKenh=vuminhthanh1
-#EXTINF:-1 group-title="Undefined",BBC Earth HD
-https://ace.hoiquan.click/module/IPTV/?id=Bbceath&accKenh=vuminhthanh1
+#EXTINF:-1 group-title="Undefined",Sky Sport F1 HD
+http://myxpanel.pro:80/Martin/Martin/662488
+#EXTINF:-1 group-title="Undefined",NHK World HD
+https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Undefined",CNA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="Undefined",ON Phim Viet HD
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-2-phim-viet-hd/KenhCoBan.m3u8
+#EXTINF:-1 group-title="Undefined",Vie Giai Tri HD
+https://freem3u.xyz/api/live/play.m3u8?vid=180
+#EXTINF:-1 group-title="Undefined",On Movies HD
+https://freem3u.xyz/api/live/play.m3u8?vid=181
+#EXTINF:-1 group-title="Undefined",E Channel HD
+https://freem3u.xyz/api/live/play.m3u8?vid=182
+#EXTINF:-1 group-title="Undefined",O2TV HD
+https://freem3u.xyz/api/live/play.m3u8?vid=136
+#EXTINF:-1 group-title="Undefined",Dak Lak HD
+https://freem3u.xyz/api/live/play.m3u8?vid=51
+#EXTINF:-1 group-title="Undefined",Max Sport 1 HD
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31801&extension=ts&play_token=MAaXIbHwPF
+#EXTINF:-1 group-title="Undefined",FPT Event 1 HD
+https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Undefined",FPT Play 3 HD
+https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Undefined",FPT Play 4 HD
+https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Undefined",FPT Play 8 HD
+https://live.fptplay53.net/live/media/su-kien-08/hls_avc_v6/index.m3u8
