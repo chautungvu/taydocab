@@ -1,5 +1,5 @@
 # taydocab
-Hệ thống IPTV của TayDoCab
+internal test
 ----------------------------------------
-Link IPTV: https://tinyurl.com/taydocabvip
+Link IPTV: /chưa có/
 Link phim: /chưa có/
