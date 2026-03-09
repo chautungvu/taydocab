@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST:iptv_goivip
+#PLAYLIST:internaltest
 #EXTINF:-1 group-title="Undefined",VTV1 HD DB
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Undefined",VTV2 HD
@@ -236,8 +236,23 @@ https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT2/manifest.mpd
-#EXTINF:-1 group-title="Undefined",VTV1 Prime HD
+#EXTINF:-1 group-title="Undefined",On Sports News HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livebytsct.vtvprime.vn/livesnv2/VTV1_HD/manifest.mpd
+https://livebytsct.vtvprime.vn/livesnv2/THETHAO_TINTUC_HD/manifest.mpd
+#EXTINF:-1 group-title="Undefined",On Sports HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livebytsct.vtvprime.vn/livesnv2/THETHAO_HD/manifest.mpd
+#EXTINF:-1 group-title="Undefined",On Football HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livebytsct.vtvprime.vn/livesnv2/BONGDA_HD/manifest.mpd
+#EXTINF:-1 group-title="Undefined",On Golf HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livebytsct.vtvprime.vn/livesnv2/THETHAO_GOLF_HD/manifest.mpd
