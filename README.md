@@ -1,5 +1,5 @@
 # taydocab
 internal test
 ----------------------------------------
-Link IPTV: /chưa có/
+Link IPTV: https://tinyurl.com/taydotest
 Link phim: /chưa có/
