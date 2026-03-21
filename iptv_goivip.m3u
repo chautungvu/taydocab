@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST:iptvvip
+#PLAYLIST:updated 21 03 2026
 #EXTINF:-1 group-title="Undefined",VTV1 HD DB
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Undefined",VTV2 HD
@@ -422,3 +422,7 @@ https://live.fptplay53.net/epzsd1/lamdong02_hls.smil/chunklist.m3u8
 https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",FPT Event 5 HD
 https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Undefined",Canal+ Foot HD
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1071923&extension=ts&play_token=vcQAIeKouv
+#EXTINF:-1 group-title="Undefined",Canal+ Sport FHD
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1184930&extension=ts&play_token=fHBckk00nW
