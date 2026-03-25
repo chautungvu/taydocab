@@ -117,7 +117,7 @@ https://vietanhtv.id.vn/tv360/9957/index.m3u8
 #EXTINF:-1 group-title="IPTV",TV360 11 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vietanhtv.id.vn/tv360/9958/index.m3u8
-#EXTINF:-1 group-title="Sports",TV360 12 HD
+#EXTINF:-1 group-title="IPTV",TV360 12 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -236,7 +236,7 @@ https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
 https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="IPTV",FPT Play 5 HD
 https://live.fptplay53.net/live/media/su-kien-08/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="Sports",FPT Play 6 4K
+#EXTINF:-1 group-title="IPTV",FPT Play 6 4K
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
