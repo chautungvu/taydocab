@@ -1519,8 +1519,6 @@ https://playback.livetl001.com/live/69f42e961f739deff81510c0_1080p.m3u8
 https://playback.livetl001.com/live/69f42e961f739deff81510c0_1080p.flv
 #EXTINF:-1 tvg-logo="https://static.sportsfeed.pro/football/team/e5ecd0553885f1a3af731758dddce2ec.png" group-title="Gà Vàng TV" , 🟡 02:30 08/09 ⚽ Elche CF vs Real Sociedad (Saitama) (HD) [hls]
 https://playback.livetl001.com/live/69f42e961f739deff81510c0.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/03/7_1788375379366.jpg", Event 5
-https://vips-livecdn.fptplay.net/live/media/event-05/hls_avc_v6/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/28036.png" group-title="Chuối Chiên TV" , 🟢 04:45 08/09 ⚽ Atlante W vs Juárez W (Chuối Nhỏ) [FHD] [hls] 
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8
@@ -2092,3 +2090,5 @@ https://live.inplyr.com/room/558264.m3u8
 #EXTINF:-1 tvg-logo="https://socolivep.cv/wp-content/uploads/truc-tiep/logos/basketball/team/https://sta.vnres.co/file/common/20260906/e3ed7fbfa036790056d793c2ddcf37f6.png" group-title="Socolive TV" , 14:00 08/09 🏀 Quezon Huskers vs Negros Muscovados (BLV HENRY) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/428392.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/03/7_1788375379366.jpg", Event 5
+https://vips-livecdn.fptplay.net/live/media/event-05/hls_avc_v6/index.m3u8
