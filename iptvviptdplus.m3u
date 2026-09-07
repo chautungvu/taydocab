@@ -2299,3 +2299,5 @@ https://live.inplyr.com/room/622241.m3u8
 #EXTINF:-1 tvg-logo="https://socolivep.cv/wp-content/uploads/truc-tiep/logos/football/team/https://sta.vnres.co/file/common/20260905/987d62b83e6fff1e4be4af0a72362c2a.png" group-title="Socolive TV" , 🟢 08:15 08/09 ⚽ Atletico Nacional Medellin vs Deportivo Cali (THOMAS) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/414317.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/03/7_1788375379366.jpg", Event 5
+https://vips-livecdn.fptplay.net/live/media/event-05/hls_avc_v6/index.m3u8
